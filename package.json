@@ -1,0 +1,27 @@
+{
+    "name": "lorem-inem",
+    "displayName": "Lorem INEM",
+    "description": "Lorem Ipsum for those who do not think that can get a job (Spanish Edition)",
+    "keywords": [
+        "snippets",
+        "lorem",
+        "INEM"
+    ],
+    "version": "1.0.0",
+    "publisher": "Alwar Müra",
+    "icon": "logo.png",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}

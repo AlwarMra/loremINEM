@@ -1,0 +1,127 @@
+{
+    "A paragraph": {
+        "prefix": "inem",
+        "body": [
+            "De aquí a la cola del INEM, Con suerte una empresa en Bangladesh nos hace un outsourcing bien rico. Aporreo el teclado como un mono con toda la zorra que tengo. Eternal becario, suicídenme. Vamos directos al paro, a programar debajo de un puente robando la luz de las farolas. Primo, dame algo suelto que este servidor no se paga solo."
+        ],
+        "description": "Creates a lorem INEM paragraph"
+    },
+    "Two paragraph": {
+        "prefix": "inem 2",
+        "body": [
+            "Me va a contratar su puta madre, te rompo la aplicación por 1200 leros mensuales; si estuviera en mi mano, yo tampoco me metía en plantilla. ¿Cómo se centra un div dentro de un div? Pido paguita por mi única skill: buscar la respuesta en stackoverflow. Un poquito de caridad, que el INEM es de pobre",
+            "",
+            "De aquí a la cola del INEM, una limosna por un codigito bien rico. Incontratable, Sodoma y Gomorra escupieron en mi boca, ni zorra tengo, como un mono aporreo el teclado. Vamos directos al paro, a programar debajo de un puente robando la luz de las farolas. Primo, dame algo suelto que este servidor no se paga solo."
+        ],
+        "description": "Creates two lorem INEM paragraphs"
+    },
+    "Three paragraph": {
+        "prefix": "inem 3",
+        "body": [
+            "De aquí al paro, el INEM nos espera, ni puta idea, pero que ni puta idea de programar tengo. Con suerte una empresa en Bangladesh nos hace un outsourcing ventajoso. una limosna por un codigito bien rico, te ordeno un array por la voluntad. Tranquilidad, que la ignorancia se paga con una buena indemnización por desempleo al tercer día.",
+            "",
+            "Me va a contratar su puta madre, te rompo la aplicación por 1200 leros mensuales; si estuviera en mi mano, yo tampoco me metía en plantilla. ¿Cómo se centra un div dentro de un div? Pido paguita por mi única skill: buscar la respuesta en stackoverflow. Un poquito de caridad, que el INEM es de pobres.",
+            "",
+            "De aquí a la cola del INEM, una limosna por un codigito bien rico. Incontratable, Sodoma y Gomorra escupieron en mi boca, ni zorra tengo, como un mono aporreo el teclado. Vamos directos al paro, a programar debajo de un puente robando la luz de las farolas. Primo, dame algo suelto que este servidor no se paga solo."
+        ],
+        "description": "Creates three lorem INEM paragraphs"
+    },
+    "Two words": {
+        "prefix": "inem2",
+        "body": [
+            "Soy incontratable"
+        ],
+        "description": "Creates two lorem INEM words"
+    },
+    "three words": {
+        "prefix": "inem3",
+        "body": [
+            "Al paro vamos."
+        ],
+        "description": "Creates three lorem INEM words"
+    },
+    "four words": {
+        "prefix": "inem4",
+        "body": [
+            "El INEM nos espera."
+        ],
+        "description": "Creates four lorem INEM words"
+    },
+    "five words": {
+        "prefix": "inem5",
+        "body": [
+            "Lorem INEM en mi boca."
+        ],
+        "description": "Creates five lorem INEM words"
+    },
+    "six words": {
+        "prefix": "inem6",
+        "body": [
+            "Outsourcing desde la pletórica república vietnamita."
+        ],
+        "description": "Creates six lorem INEM words"
+    },
+    "seven words": {
+        "prefix": "inem7",
+        "body": [
+            "Vamos a programar debajo de un puente."
+        ],
+        "description": "Creates seven lorem INEM words"
+    },
+    "eight words": {
+        "prefix": "inem8",
+        "body": [
+            "Voy a pegarme un tiro en la boca."
+        ],
+        "description": "Creates eight lorem INEM words"
+    },
+    "nine words": {
+        "prefix": "inem9",
+        "body": [
+            "Yo no programo, yo busco la respuesta en stackoverflow."
+        ],
+        "description": "Creates nine lorem INEM words"
+    },
+    "ten words": {
+        "prefix": "inem10",
+        "body": [
+            "Mando CV con el internet que estoy robando al vecino."
+        ],
+        "description": "Creates ten lorem INEM words"
+    },
+    "eleven words": {
+        "prefix": "inem11",
+        "body": [
+            "La última vez que olí un contrato estábamos en ECMAScript 3."
+        ],
+        "description": "Creates eleven lorem INEM words"
+    },
+    "twelve words": {
+        "prefix": "inem12",
+        "body": [
+            "Tranquilidad, que para programar también se puede desde la casa de papá."
+        ],
+        "description": "Creates twelve lorem INEM words"
+    },
+    "thirteen words": {
+        "prefix": "inem13",
+        "body": [
+            "Garantizo romperte la aplicación de tu negocio por no menos de 1200 leros."
+        ],
+        "description": "Creates thirteen lorem INEM words"
+    },
+    "fourteen words": {
+        "prefix": "inem14",
+        "body": [
+            "Es el tercer trabajo consecutivo que tengo del que me echan al tercer día."
+        ],
+        "description": "Creates fourteen lorem INEM words"
+    },
+    "fifteen words": {
+        "prefix": "inem15",
+        "body": [
+            "Ayer intercambié un plato de arroz por mis mejores quince líneas de código en Javascript."
+        ],
+        "description": "Creates fifteen lorem INEM words"
+    }
+}
