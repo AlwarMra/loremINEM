@@ -9,6 +9,10 @@
     ],
     "version": "1.0.0",
     "publisher": "Alwar Müra",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AlwarMra/loremINEM.git"
+    },
     "icon": "logo.png",
     "engines": {
         "vscode": "^1.46.0"
